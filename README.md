@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Aastha Yadav 👋
 
-<!--
-**Aastha-collab/Aastha-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. (Hons.) Mathematics Graduate from Delhi University  
+📊 Aspiring Data Analyst | Data Science & Generative AI Enthusiast  
+🚀 Passionate about solving real-world business problems using Data, ML & AI  
 
-Here are some ideas to get you started:
+## 💡 About Me
+- Skilled in Python, SQL, Power BI, Excel, Machine Learning, Deep Learning, NLP, and Generative AI
+- Interested in Data Analytics, Fraud Detection, RAG Systems, and AI-driven solutions
+- Strong foundation in Mathematics, Statistics, and Analytical Thinking
+- Actively building end-to-end ML and GenAI projects with business impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages & Tools:**  
+Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib  
+
+**AI/ML:**  
+Machine Learning | NLP | Deep Learning | Generative AI | RAG | LLMs | Vector Databases | Prompt Engineering  
+
+**Platforms:**  
+VS Code | Jupyter Notebook | Google Colab | GitHub  
+
+## 📌 Featured Projects
+
+### 🔹 FinIntel AI – RAG Based Financial Fraud Detection System
+- Built an AI-powered fraud detection system using RAG, NVIDIA LLM APIs, and ChromaDB
+- Implemented semantic fraud retrieval and AI-generated fraud reasoning
+- Developed an interactive Streamlit dashboard for fraud analytics and reporting
+
+### 🔹 Explainable Financial Fraud Detection System (ML + GenAI)
+- Developed a fraud detection model on highly imbalanced financial transaction data
+- Applied SMOTE, feature engineering, and Random Forest classification
+- Created an explainable AI dashboard with fraud probability visualization
+
+### 🔹 Customer Support & Sales Analytics Dashboard
+- Designed a Power BI dashboard to monitor KPIs, sales trends, and customer support performance
+- Generated business insights through dynamic visualizations and analytics
+
+## 🏆 Achievements
+- Selected for McKinsey Forward Program
+- Selected for Harvard Aspire Leaders Program
+- Delegate at HPAIR (Harvard Project for Asian & International Relations)
+- Google Student Ambassador
+- President, Affine – Mathematics Society, Delhi University
+- Management Head, Affine – Mathematics Society, Delhi University
+- Event Head, Affine – Mathematics Society, Delhi University
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/aasthayadav2005
+- Email: aasthayadav2055@gmail.com
