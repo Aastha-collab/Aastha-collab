@@ -23,16 +23,25 @@ VS Code | Jupyter Notebook | Google Colab | GitHub
 ## 📌 Featured Projects
 
 ### 🔹 FinIntel AI – RAG Based Financial Fraud Detection System
+🔗 Project Link:  
+https://github.com/Aastha-collab/FinIntel-AI-RAG-Based-Financial-Decision-System
+
 - Built an AI-powered fraud detection system using RAG, NVIDIA LLM APIs, and ChromaDB
 - Implemented semantic fraud retrieval and AI-generated fraud reasoning
 - Developed an interactive Streamlit dashboard for fraud analytics and reporting
 
 ### 🔹 Explainable Financial Fraud Detection System (ML + GenAI)
+🔗 Project Link:  
+https://github.com/Aastha-collab/Explainable-Financial-Fraud-Detection-System-with-AI-Interface
+
 - Developed a fraud detection model on highly imbalanced financial transaction data
 - Applied SMOTE, feature engineering, and Random Forest classification
 - Created an explainable AI dashboard with fraud probability visualization
 
 ### 🔹 Customer Support & Sales Analytics Dashboard
+🔗 Project Link:  
+https://github.com/Aastha-collab/Customer-Support-and-Sales-Analytics-Dashboard
+
 - Designed a Power BI dashboard to monitor KPIs, sales trends, and customer support performance
 - Generated business insights through dynamic visualizations and analytics
 
